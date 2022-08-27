@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
-Day 1: 27th August, 2022
-Today's progress: I attempted problems of linked list in c programming language.
+### Day 1: 27th August, 2022
+**Today's progress**: I attempted problems of linked list in c programming language.
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
